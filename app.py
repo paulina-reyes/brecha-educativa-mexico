@@ -582,5 +582,6 @@ def actualizar_abandono(nivel):
 
     return fig
 
+server = app.server
 if __name__ == "__main__":
     app.run(debug=True)
