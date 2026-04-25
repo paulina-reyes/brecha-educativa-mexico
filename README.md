@@ -82,7 +82,5 @@ Abrir en navegador: http://127.0.0.1:8050/
 
 ### 6. Despliegue
 
-Aplicación desplegada en Render:
-
-👉 [Pegar aquí tu link de Render]
+👉 [Aplicación desplegada en Render](https://brecha-educativa-mexico.onrender.com/)
 
