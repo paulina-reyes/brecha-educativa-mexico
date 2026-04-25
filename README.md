@@ -1,4 +1,4 @@
-# Brecha educativa en México estado
+# Brecha educativa en México por estado
 
 **Autora:** Paulina Reyes García  
 **Licenciatura en Ingeniería en IA**
